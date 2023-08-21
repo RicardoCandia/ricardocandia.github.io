@@ -1,4 +1,4 @@
-import { ModalWindow } from "./ModalWindow";
+import { ModalWindow } from "./ModalWindow.jsx";
 
 export default {
     ModalWindow: 'Example/ModalWindow',
